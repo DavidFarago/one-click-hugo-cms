@@ -1,5 +1,5 @@
 ---
-title: title by dfarago@eclipsesource.com
+title: title by dfarago@eclipsesource.com, edited by farago
 date: 2020-12-14T16:01:36.847Z
 description: blurp by dfarago@eclipsesource.com
 ---
